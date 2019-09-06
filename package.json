@@ -1,0 +1,25 @@
+{
+  "name": "react-native-number-view",
+  "version": "1.0.0",
+  "description": "A simple React Native number counter component. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/react-native-nigeria/react-native-number-view.git"
+  },
+  "keywords": [
+    "number",
+    "react",
+    "react",
+    "native"
+  ],
+  "author": "React Native Nigeria Community",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/react-native-nigeria/react-native-number-view/issues"
+  },
+  "homepage": "https://github.com/react-native-nigeria/react-native-number-view#readme"
+}
